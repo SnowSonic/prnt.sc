@@ -1,0 +1,9 @@
+*.local
+*.identcache
+*.cbk
+*.~*
+BW/__recovery/
+*.tvsconfig
+*.dsk
+BW.dsk
+*.dcu
